@@ -1,4 +1,4 @@
-# Predicting Stock Prices with Linear Regression
+# Predicting Stock Prices using Linear Regression
 
 ## We construct a Python script that uses Linear Regression to predict the Close price of a stock
 
