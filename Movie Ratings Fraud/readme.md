@@ -6,4 +6,4 @@ Details can be found in the article: [Be Suspicious Of Online Movie Ratings, Esp
 
 # Goal
 
-The goal is to perform exploratory a similar analysis as in the article in order to check if there was bias in rating better movies in order to sell more tickets.
+The goal is to perform a similar exploratory data analysis as in the [article](http://fivethirtyeight.com/features/fandango-movies-ratings/) in order to check if there was bias in rating better movies in order to sell more tickets.
