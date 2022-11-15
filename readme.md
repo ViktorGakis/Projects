@@ -1,5 +1,3 @@
-# Machine Learning/Data Analysis projects
+# Projects Repo
 
-In this repo there is a collection of Machine Learning/Data Analysis projects.
-
-The context of the data used may vary from finance to patient data to movie ratings etc.
+In this repo there is a collection of Projects from Machine Learning, Data Analysis and Quant Finance projects.
